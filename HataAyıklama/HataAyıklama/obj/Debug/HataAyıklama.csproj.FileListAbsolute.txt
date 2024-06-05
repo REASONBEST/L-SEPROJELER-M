@@ -1,0 +1,5 @@
+F:\ODEV\HataAyıklama\HataAyıklama\bin\Debug\HataAyıklama.exe.config
+F:\ODEV\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.csprojResolveAssemblyReference.cache
+F:\ODEV\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.Form1.resources
+F:\ODEV\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.Properties.Resources.resources
+F:\ODEV\HataAyıklama\HataAyıklama\obj\Debug\HataAyıklama.csproj.GenerateResource.Cache

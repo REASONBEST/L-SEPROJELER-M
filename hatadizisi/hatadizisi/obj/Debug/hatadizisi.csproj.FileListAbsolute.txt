@@ -1,0 +1,9 @@
+F:\ODEV\hatadizisi\hatadizisi\bin\Debug\hatadizisi.exe.config
+F:\ODEV\hatadizisi\hatadizisi\bin\Debug\hatadizisi.exe
+F:\ODEV\hatadizisi\hatadizisi\bin\Debug\hatadizisi.pdb
+F:\ODEV\hatadizisi\hatadizisi\obj\Debug\hatadizisi.csprojResolveAssemblyReference.cache
+F:\ODEV\hatadizisi\hatadizisi\obj\Debug\hatadizisi.Form1.resources
+F:\ODEV\hatadizisi\hatadizisi\obj\Debug\hatadizisi.Properties.Resources.resources
+F:\ODEV\hatadizisi\hatadizisi\obj\Debug\hatadizisi.csproj.GenerateResource.Cache
+F:\ODEV\hatadizisi\hatadizisi\obj\Debug\hatadizisi.exe
+F:\ODEV\hatadizisi\hatadizisi\obj\Debug\hatadizisi.pdb

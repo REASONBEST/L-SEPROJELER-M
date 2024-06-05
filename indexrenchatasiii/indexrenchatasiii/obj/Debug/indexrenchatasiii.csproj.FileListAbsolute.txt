@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\obj\Debug\indexrenchatasiii.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\obj\Debug\indexrenchatasiii.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\obj\Debug\indexrenchatasiii.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\obj\Debug\indexrenchatasiii.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\obj\Debug\indexrenchatasiii.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\bin\Debug\indexrenchatasiii.exe.config
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\bin\Debug\indexrenchatasiii.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\bin\Debug\indexrenchatasiii.pdb
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\obj\Debug\indexrenchatasiii.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\indexrenchatasiii\indexrenchatasiii\obj\Debug\indexrenchatasiii.pdb
