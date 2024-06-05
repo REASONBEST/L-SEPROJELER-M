@@ -1,0 +1,9 @@
+F:\ODEV\sifreoluşturma\sifreoluşturma\bin\Debug\sifreoluşturma.exe.config
+F:\ODEV\sifreoluşturma\sifreoluşturma\bin\Debug\sifreoluşturma.exe
+F:\ODEV\sifreoluşturma\sifreoluşturma\bin\Debug\sifreoluşturma.pdb
+F:\ODEV\sifreoluşturma\sifreoluşturma\obj\Debug\sifreoluşturma.csprojResolveAssemblyReference.cache
+F:\ODEV\sifreoluşturma\sifreoluşturma\obj\Debug\sifreoluşturma.Form1.resources
+F:\ODEV\sifreoluşturma\sifreoluşturma\obj\Debug\sifreoluşturma.Properties.Resources.resources
+F:\ODEV\sifreoluşturma\sifreoluşturma\obj\Debug\sifreoluşturma.csproj.GenerateResource.Cache
+F:\ODEV\sifreoluşturma\sifreoluşturma\obj\Debug\sifreoluşturma.exe
+F:\ODEV\sifreoluşturma\sifreoluşturma\obj\Debug\sifreoluşturma.pdb

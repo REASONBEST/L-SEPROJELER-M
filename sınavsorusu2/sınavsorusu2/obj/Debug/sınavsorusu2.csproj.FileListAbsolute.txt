@@ -1,0 +1,9 @@
+F:\ODEV\sınavsorusu2\sınavsorusu2\bin\Debug\sınavsorusu2.exe.config
+F:\ODEV\sınavsorusu2\sınavsorusu2\bin\Debug\sınavsorusu2.exe
+F:\ODEV\sınavsorusu2\sınavsorusu2\bin\Debug\sınavsorusu2.pdb
+F:\ODEV\sınavsorusu2\sınavsorusu2\obj\Debug\sınavsorusu2.csprojResolveAssemblyReference.cache
+F:\ODEV\sınavsorusu2\sınavsorusu2\obj\Debug\sınavsorusu2.Form1.resources
+F:\ODEV\sınavsorusu2\sınavsorusu2\obj\Debug\sınavsorusu2.Properties.Resources.resources
+F:\ODEV\sınavsorusu2\sınavsorusu2\obj\Debug\sınavsorusu2.csproj.GenerateResource.Cache
+F:\ODEV\sınavsorusu2\sınavsorusu2\obj\Debug\sınavsorusu2.exe
+F:\ODEV\sınavsorusu2\sınavsorusu2\obj\Debug\sınavsorusu2.pdb
