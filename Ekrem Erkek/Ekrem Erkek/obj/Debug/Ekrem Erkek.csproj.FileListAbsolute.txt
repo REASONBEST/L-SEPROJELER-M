@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\bin\Debug\Ekrem Erkek.exe.config
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\obj\Debug\Ekrem Erkek.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\obj\Debug\Ekrem_Erkek.Ekrem.resources
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\obj\Debug\Ekrem_Erkek.Form1.resources
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\obj\Debug\Ekrem_Erkek.Properties.Resources.resources
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\obj\Debug\Ekrem Erkek.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\bin\Debug\Ekrem Erkek.exe
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\bin\Debug\Ekrem Erkek.pdb
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\obj\Debug\Ekrem Erkek.exe
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\obj\Debug\Ekrem Erkek.pdb
+C:\Users\PC\Desktop\Yenilik\Ekrem Erkek\Ekrem Erkek\obj\Debug\Ekrem_Erkek.Kerem1.resources

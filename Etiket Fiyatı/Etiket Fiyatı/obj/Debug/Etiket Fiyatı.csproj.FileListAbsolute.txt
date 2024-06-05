@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Boşluk\Etiket Fiyatı\Etiket Fiyatı\obj\Debug\Etiket Fiyatı.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Boşluk\Etiket Fiyatı\Etiket Fiyatı\obj\Debug\Etiket_Fiyatı.Form1.resources
+C:\Users\PC\Desktop\Boşluk\Etiket Fiyatı\Etiket Fiyatı\obj\Debug\Etiket Fiyatı.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Boşluk\Etiket Fiyatı\Etiket Fiyatı\bin\Debug\Etiket.exe.config
+C:\Users\PC\Desktop\Boşluk\Etiket Fiyatı\Etiket Fiyatı\obj\Debug\Etiket.Properties.Resources.resources
+C:\Users\PC\Desktop\Boşluk\Etiket Fiyatı\Etiket Fiyatı\bin\Debug\Etiket.exe
+C:\Users\PC\Desktop\Boşluk\Etiket Fiyatı\Etiket Fiyatı\bin\Debug\Etiket.pdb
+C:\Users\PC\Desktop\Boşluk\Etiket Fiyatı\Etiket Fiyatı\obj\Debug\Etiket.exe
+C:\Users\PC\Desktop\Boşluk\Etiket Fiyatı\Etiket Fiyatı\obj\Debug\Etiket.pdb
