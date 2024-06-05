@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\+5\+5\bin\Debug\+5.exe.config
+C:\Users\PC\Desktop\+5\+5\bin\Debug\+5.exe
+C:\Users\PC\Desktop\+5\+5\bin\Debug\+5.pdb
+C:\Users\PC\Desktop\+5\+5\obj\Debug\+5.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\+5\+5\obj\Debug\_5.Form1.resources
+C:\Users\PC\Desktop\+5\+5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\PC\Desktop\+5\+5\obj\Debug\+5.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\+5\+5\obj\Debug\+5.exe
+C:\Users\PC\Desktop\+5\+5\obj\Debug\+5.pdb

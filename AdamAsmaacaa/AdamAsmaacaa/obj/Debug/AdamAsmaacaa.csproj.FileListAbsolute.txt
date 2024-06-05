@@ -1,0 +1,4 @@
+c:\users\pc\documents\visual studio 2015\Projects\AdamAsmaacaa\AdamAsmaacaa\obj\Debug\AdamAsmaacaa.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\AdamAsmaacaa\AdamAsmaacaa\obj\Debug\AdamAsmaacaa.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\AdamAsmaacaa\AdamAsmaacaa\obj\Debug\AdamAsmaacaa.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\AdamAsmaacaa\AdamAsmaacaa\obj\Debug\AdamAsmaacaa.csproj.GenerateResource.Cache

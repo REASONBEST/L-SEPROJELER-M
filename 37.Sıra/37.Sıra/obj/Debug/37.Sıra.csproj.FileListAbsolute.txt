@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Boşluk\37.Sıra\37.Sıra\bin\Debug\37.Sıra.exe.config
+C:\Users\PC\Desktop\Boşluk\37.Sıra\37.Sıra\obj\Debug\37.Sıra.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Boşluk\37.Sıra\37.Sıra\obj\Debug\_37.Sıra.Form1.resources
+C:\Users\PC\Desktop\Boşluk\37.Sıra\37.Sıra\obj\Debug\_37.Sıra.Properties.Resources.resources
+C:\Users\PC\Desktop\Boşluk\37.Sıra\37.Sıra\obj\Debug\37.Sıra.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Boşluk\37.Sıra\37.Sıra\bin\Debug\37.Sıra.exe
+C:\Users\PC\Desktop\Boşluk\37.Sıra\37.Sıra\bin\Debug\37.Sıra.pdb
+C:\Users\PC\Desktop\Boşluk\37.Sıra\37.Sıra\obj\Debug\37.Sıra.exe
+C:\Users\PC\Desktop\Boşluk\37.Sıra\37.Sıra\obj\Debug\37.Sıra.pdb
+F:\Proje4\37.Sıra\37.Sıra\bin\Debug\37.Sıra.exe.config
+F:\Proje4\37.Sıra\37.Sıra\obj\Debug\37.Sıra.exe
+F:\Proje4\37.Sıra\37.Sıra\obj\Debug\37.Sıra.pdb
