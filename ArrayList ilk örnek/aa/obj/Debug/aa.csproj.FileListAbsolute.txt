@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\aa\aa\obj\Debug\aa.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\aa\aa\obj\Debug\aa.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\aa\aa\obj\Debug\aa.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\aa\aa\obj\Debug\aa.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\aa\aa\obj\Debug\aa.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\obj\Debug\aa.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\obj\Debug\aa.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\obj\Debug\aa.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\obj\Debug\aa.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\obj\Debug\aa.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\bin\Debug\aa.exe.config
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\bin\Debug\aa.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\bin\Debug\aa.pdb
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\obj\Debug\aa.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\ArrayList ilk örnek\aa\obj\Debug\aa.pdb

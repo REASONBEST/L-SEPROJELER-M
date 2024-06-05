@@ -1,0 +1,9 @@
+F:\ODEV\basbitis\basbitis\bin\Debug\basbitis.exe.config
+F:\ODEV\basbitis\basbitis\obj\Debug\basbitis.csprojResolveAssemblyReference.cache
+F:\ODEV\basbitis\basbitis\obj\Debug\basbitis.Form1.resources
+F:\ODEV\basbitis\basbitis\obj\Debug\basbitis.Properties.Resources.resources
+F:\ODEV\basbitis\basbitis\obj\Debug\basbitis.csproj.GenerateResource.Cache
+F:\ODEV\basbitis\basbitis\bin\Debug\basbitis.exe
+F:\ODEV\basbitis\basbitis\bin\Debug\basbitis.pdb
+F:\ODEV\basbitis\basbitis\obj\Debug\basbitis.exe
+F:\ODEV\basbitis\basbitis\obj\Debug\basbitis.pdb
