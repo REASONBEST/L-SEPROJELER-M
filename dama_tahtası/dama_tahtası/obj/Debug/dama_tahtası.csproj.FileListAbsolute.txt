@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Projeler\dama_tahtası\dama_tahtası\bin\Debug\dama_tahtası.exe.config
+C:\Users\PC\Desktop\Projeler\dama_tahtası\dama_tahtası\obj\Debug\dama_tahtası.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Projeler\dama_tahtası\dama_tahtası\obj\Debug\dama_tahtası.Form1.resources
+C:\Users\PC\Desktop\Projeler\dama_tahtası\dama_tahtası\obj\Debug\dama_tahtası.Properties.Resources.resources
+C:\Users\PC\Desktop\Projeler\dama_tahtası\dama_tahtası\obj\Debug\dama_tahtası.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Projeler\dama_tahtası\dama_tahtası\bin\Debug\dama_tahtası.exe
+C:\Users\PC\Desktop\Projeler\dama_tahtası\dama_tahtası\bin\Debug\dama_tahtası.pdb
+C:\Users\PC\Desktop\Projeler\dama_tahtası\dama_tahtası\obj\Debug\dama_tahtası.exe
+C:\Users\PC\Desktop\Projeler\dama_tahtası\dama_tahtası\obj\Debug\dama_tahtası.pdb

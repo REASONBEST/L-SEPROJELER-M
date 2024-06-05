@@ -1,0 +1,19 @@
+C:\Users\PC\Desktop\Projeler\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\bin\Debug\çok_boyutlu_dizeye_değer_atama.exe.config
+C:\Users\PC\Desktop\Projeler\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Projeler\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.Form1.resources
+C:\Users\PC\Desktop\Projeler\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.Properties.Resources.resources
+C:\Users\PC\Desktop\Projeler\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Projeler\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\bin\Debug\çok_boyutlu_dizeye_değer_atama.exe
+C:\Users\PC\Desktop\Projeler\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\bin\Debug\çok_boyutlu_dizeye_değer_atama.pdb
+C:\Users\PC\Desktop\Projeler\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.exe
+C:\Users\PC\Desktop\Projeler\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.pdb
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\bin\Debug\çok_boyutlu_dizeye_değer_atama.exe.config
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\bin\Debug\çok_boyutlu_dizeye_değer_atama.exe
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\bin\Debug\çok_boyutlu_dizeye_değer_atama.pdb
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.exe
+C:\Users\user\OneDrive\Masaüstü\Sınav öncesi örnek sorular\çok_boyutlu_dizeye_değer_atama\çok_boyutlu_dizeye_değer_atama\obj\Debug\çok_boyutlu_dizeye_değer_atama.pdb

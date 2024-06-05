@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Boşluk\Çıkarma,çarpma,Bölme\Çıkarma,çarpma,Bölme\bin\Debug\Çıkarma,çarpma,Bölme.exe.config
+C:\Users\PC\Desktop\Boşluk\Çıkarma,çarpma,Bölme\Çıkarma,çarpma,Bölme\obj\Debug\Çıkarma,çarpma,Bölme.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Boşluk\Çıkarma,çarpma,Bölme\Çıkarma,çarpma,Bölme\obj\Debug\Çıkarma_çarpma_Bölme.Form1.resources
+C:\Users\PC\Desktop\Boşluk\Çıkarma,çarpma,Bölme\Çıkarma,çarpma,Bölme\obj\Debug\Çıkarma_çarpma_Bölme.Properties.Resources.resources
+C:\Users\PC\Desktop\Boşluk\Çıkarma,çarpma,Bölme\Çıkarma,çarpma,Bölme\obj\Debug\Çıkarma,çarpma,Bölme.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Boşluk\Çıkarma,çarpma,Bölme\Çıkarma,çarpma,Bölme\bin\Debug\Çıkarma,çarpma,Bölme.exe
+C:\Users\PC\Desktop\Boşluk\Çıkarma,çarpma,Bölme\Çıkarma,çarpma,Bölme\bin\Debug\Çıkarma,çarpma,Bölme.pdb
+C:\Users\PC\Desktop\Boşluk\Çıkarma,çarpma,Bölme\Çıkarma,çarpma,Bölme\obj\Debug\Çıkarma,çarpma,Bölme.exe
+C:\Users\PC\Desktop\Boşluk\Çıkarma,çarpma,Bölme\Çıkarma,çarpma,Bölme\obj\Debug\Çıkarma,çarpma,Bölme.pdb
