@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\bin\Debug\InterfaceUygulaması2.exe.config
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\bin\Debug\InterfaceUygulaması2.exe
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\bin\Debug\InterfaceUygulaması2.pdb
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\obj\Debug\InterfaceUygulaması2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\obj\Debug\InterfaceUygulaması2.exe
+C:\Users\PC\Desktop\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\obj\Debug\InterfaceUygulaması2.pdb
+E:\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\bin\Debug\InterfaceUygulaması2.exe.config
+E:\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\bin\Debug\InterfaceUygulaması2.exe
+E:\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\bin\Debug\InterfaceUygulaması2.pdb
+E:\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\obj\Debug\InterfaceUygulaması2.csproj.AssemblyReference.cache
+E:\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\obj\Debug\InterfaceUygulaması2.csproj.CoreCompileInputs.cache
+E:\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\obj\Debug\InterfaceUygulaması2.exe
+E:\Yeni klasör\InterfaceUygulaması2\InterfaceUygulaması2\obj\Debug\InterfaceUygulaması2.pdb

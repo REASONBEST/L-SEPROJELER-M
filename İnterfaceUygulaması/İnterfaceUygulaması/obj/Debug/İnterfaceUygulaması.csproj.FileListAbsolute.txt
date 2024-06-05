@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\İnterfaceUygulaması\İnterfaceUygulaması\bin\Debug\İnterfaceUygulaması.exe.config
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\İnterfaceUygulaması\İnterfaceUygulaması\bin\Debug\İnterfaceUygulaması.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\İnterfaceUygulaması\İnterfaceUygulaması\bin\Debug\İnterfaceUygulaması.pdb
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\İnterfaceUygulaması\İnterfaceUygulaması\obj\Debug\İnterfaceUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\İnterfaceUygulaması\İnterfaceUygulaması\obj\Debug\İnterfaceUygulaması.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\İnterfaceUygulaması\İnterfaceUygulaması\obj\Debug\İnterfaceUygulaması.pdb
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\İnterfaceUygulaması\İnterfaceUygulaması\obj\Debug\İnterfaceUygulaması.csproj.AssemblyReference.cache
