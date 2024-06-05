@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\Proje10\Dosya Bulunamama Hatası\Dosya Bulunamama Hatası\bin\Debug\Dosya Bulunamama Hatası.exe.config
+C:\Users\PC\Desktop\Proje10\Dosya Bulunamama Hatası\Dosya Bulunamama Hatası\obj\Debug\Dosya Bulunamama Hatası.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Proje10\Dosya Bulunamama Hatası\Dosya Bulunamama Hatası\obj\Debug\Dosya_Bulunamama_Hatası.Form1.resources
+C:\Users\PC\Desktop\Proje10\Dosya Bulunamama Hatası\Dosya Bulunamama Hatası\obj\Debug\Dosya_Bulunamama_Hatası.Properties.Resources.resources
+C:\Users\PC\Desktop\Proje10\Dosya Bulunamama Hatası\Dosya Bulunamama Hatası\obj\Debug\Dosya Bulunamama Hatası.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+F:\ODEV\dizirandomsayıüret\dizirandomsayıüret\bin\Debug\dizirandomsayıüret.exe.config
+F:\ODEV\dizirandomsayıüret\dizirandomsayıüret\bin\Debug\dizirandomsayıüret.exe
+F:\ODEV\dizirandomsayıüret\dizirandomsayıüret\bin\Debug\dizirandomsayıüret.pdb
+F:\ODEV\dizirandomsayıüret\dizirandomsayıüret\obj\Debug\dizirandomsayıüret.csprojResolveAssemblyReference.cache
+F:\ODEV\dizirandomsayıüret\dizirandomsayıüret\obj\Debug\dizirandomsayıüret.Form1.resources
+F:\ODEV\dizirandomsayıüret\dizirandomsayıüret\obj\Debug\dizirandomsayıüret.Properties.Resources.resources
+F:\ODEV\dizirandomsayıüret\dizirandomsayıüret\obj\Debug\dizirandomsayıüret.csproj.GenerateResource.Cache
+F:\ODEV\dizirandomsayıüret\dizirandomsayıüret\obj\Debug\dizirandomsayıüret.exe
+F:\ODEV\dizirandomsayıüret\dizirandomsayıüret\obj\Debug\dizirandomsayıüret.pdb

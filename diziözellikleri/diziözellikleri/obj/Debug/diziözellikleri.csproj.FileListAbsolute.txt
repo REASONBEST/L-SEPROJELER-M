@@ -1,0 +1,9 @@
+F:\ODEV\diziözellikleri\diziözellikleri\bin\Debug\diziözellikleri.exe.config
+F:\ODEV\diziözellikleri\diziözellikleri\bin\Debug\diziözellikleri.exe
+F:\ODEV\diziözellikleri\diziözellikleri\bin\Debug\diziözellikleri.pdb
+F:\ODEV\diziözellikleri\diziözellikleri\obj\Debug\diziözellikleri.csprojResolveAssemblyReference.cache
+F:\ODEV\diziözellikleri\diziözellikleri\obj\Debug\diziözellikleri.Form1.resources
+F:\ODEV\diziözellikleri\diziözellikleri\obj\Debug\diziözellikleri.Properties.Resources.resources
+F:\ODEV\diziözellikleri\diziözellikleri\obj\Debug\diziözellikleri.csproj.GenerateResource.Cache
+F:\ODEV\diziözellikleri\diziözellikleri\obj\Debug\diziözellikleri.exe
+F:\ODEV\diziözellikleri\diziözellikleri\obj\Debug\diziözellikleri.pdb
