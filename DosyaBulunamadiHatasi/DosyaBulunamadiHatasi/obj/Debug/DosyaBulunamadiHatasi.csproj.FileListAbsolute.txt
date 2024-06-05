@@ -1,0 +1,9 @@
+F:\ODEV\DosyaBulunamadiHatasi\DosyaBulunamadiHatasi\bin\Debug\DosyaBulunamadiHatasi.exe.config
+F:\ODEV\DosyaBulunamadiHatasi\DosyaBulunamadiHatasi\bin\Debug\DosyaBulunamadiHatasi.exe
+F:\ODEV\DosyaBulunamadiHatasi\DosyaBulunamadiHatasi\bin\Debug\DosyaBulunamadiHatasi.pdb
+F:\ODEV\DosyaBulunamadiHatasi\DosyaBulunamadiHatasi\obj\Debug\DosyaBulunamadiHatasi.csprojResolveAssemblyReference.cache
+F:\ODEV\DosyaBulunamadiHatasi\DosyaBulunamadiHatasi\obj\Debug\DosyaBulunamadiHatasi.Form1.resources
+F:\ODEV\DosyaBulunamadiHatasi\DosyaBulunamadiHatasi\obj\Debug\DosyaBulunamadiHatasi.Properties.Resources.resources
+F:\ODEV\DosyaBulunamadiHatasi\DosyaBulunamadiHatasi\obj\Debug\DosyaBulunamadiHatasi.csproj.GenerateResource.Cache
+F:\ODEV\DosyaBulunamadiHatasi\DosyaBulunamadiHatasi\obj\Debug\DosyaBulunamadiHatasi.exe
+F:\ODEV\DosyaBulunamadiHatasi\DosyaBulunamadiHatasi\obj\Debug\DosyaBulunamadiHatasi.pdb

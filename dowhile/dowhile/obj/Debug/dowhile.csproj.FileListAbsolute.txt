@@ -1,0 +1,9 @@
+F:\ODEV\dowhile\dowhile\bin\Debug\dowhile.exe.config
+F:\ODEV\dowhile\dowhile\bin\Debug\dowhile.exe
+F:\ODEV\dowhile\dowhile\bin\Debug\dowhile.pdb
+F:\ODEV\dowhile\dowhile\obj\Debug\dowhile.csprojResolveAssemblyReference.cache
+F:\ODEV\dowhile\dowhile\obj\Debug\dowhile.Form1.resources
+F:\ODEV\dowhile\dowhile\obj\Debug\dowhile.Properties.Resources.resources
+F:\ODEV\dowhile\dowhile\obj\Debug\dowhile.csproj.GenerateResource.Cache
+F:\ODEV\dowhile\dowhile\obj\Debug\dowhile.exe
+F:\ODEV\dowhile\dowhile\obj\Debug\dowhile.pdb
