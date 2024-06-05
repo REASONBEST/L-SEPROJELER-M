@@ -1,0 +1,10 @@
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\obj\Debug\maaşuygulamasıi.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\obj\Debug\maaşuygulamasıi.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\obj\Debug\maaşuygulamasıi.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\obj\Debug\maaşuygulamasıi.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\obj\Debug\maaşuygulamasıi.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\bin\Debug\maaşuygulamasıi.exe.config
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\bin\Debug\maaşuygulamasıi.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\bin\Debug\maaşuygulamasıi.pdb
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\obj\Debug\maaşuygulamasıi.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\maaşuygulamasıi\maaşuygulamasıi\obj\Debug\maaşuygulamasıi.pdb

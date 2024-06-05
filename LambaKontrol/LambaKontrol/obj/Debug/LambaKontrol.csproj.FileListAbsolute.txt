@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Boşluk\LambaKontrol\LambaKontrol\bin\Debug\LambaKontrol.exe.config
+C:\Users\PC\Desktop\Boşluk\LambaKontrol\LambaKontrol\bin\Debug\LambaKontrol.exe
+C:\Users\PC\Desktop\Boşluk\LambaKontrol\LambaKontrol\bin\Debug\LambaKontrol.pdb
+C:\Users\PC\Desktop\Boşluk\LambaKontrol\LambaKontrol\obj\Debug\LambaKontrol.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Boşluk\LambaKontrol\LambaKontrol\obj\Debug\LambaKontrol.Form1.resources
+C:\Users\PC\Desktop\Boşluk\LambaKontrol\LambaKontrol\obj\Debug\LambaKontrol.Properties.Resources.resources
+C:\Users\PC\Desktop\Boşluk\LambaKontrol\LambaKontrol\obj\Debug\LambaKontrol.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Boşluk\LambaKontrol\LambaKontrol\obj\Debug\LambaKontrol.exe
+C:\Users\PC\Desktop\Boşluk\LambaKontrol\LambaKontrol\obj\Debug\LambaKontrol.pdb
