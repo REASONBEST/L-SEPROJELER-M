@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Projeler\dizi_sayisi_bulma\dizi_sayisi_bulma\bin\Debug\dizi_sayisi_bulma.exe.config
+C:\Users\PC\Desktop\Projeler\dizi_sayisi_bulma\dizi_sayisi_bulma\obj\Debug\dizi_sayisi_bulma.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Projeler\dizi_sayisi_bulma\dizi_sayisi_bulma\obj\Debug\dizi_sayisi_bulma.Form1.resources
+C:\Users\PC\Desktop\Projeler\dizi_sayisi_bulma\dizi_sayisi_bulma\obj\Debug\dizi_sayisi_bulma.Properties.Resources.resources
+C:\Users\PC\Desktop\Projeler\dizi_sayisi_bulma\dizi_sayisi_bulma\obj\Debug\dizi_sayisi_bulma.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Projeler\dizi_sayisi_bulma\dizi_sayisi_bulma\bin\Debug\dizi_sayisi_bulma.exe
+C:\Users\PC\Desktop\Projeler\dizi_sayisi_bulma\dizi_sayisi_bulma\bin\Debug\dizi_sayisi_bulma.pdb
+C:\Users\PC\Desktop\Projeler\dizi_sayisi_bulma\dizi_sayisi_bulma\obj\Debug\dizi_sayisi_bulma.exe
+C:\Users\PC\Desktop\Projeler\dizi_sayisi_bulma\dizi_sayisi_bulma\obj\Debug\dizi_sayisi_bulma.pdb
