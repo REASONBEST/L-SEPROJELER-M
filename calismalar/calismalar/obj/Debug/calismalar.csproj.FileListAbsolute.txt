@@ -1,0 +1,9 @@
+F:\ODEV\calismalar\calismalar\bin\Debug\calismalar.exe.config
+F:\ODEV\calismalar\calismalar\obj\Debug\calismalar.csprojResolveAssemblyReference.cache
+F:\ODEV\calismalar\calismalar\obj\Debug\calismalar.Form1.resources
+F:\ODEV\calismalar\calismalar\obj\Debug\calismalar.Properties.Resources.resources
+F:\ODEV\calismalar\calismalar\obj\Debug\calismalar.csproj.GenerateResource.Cache
+F:\ODEV\calismalar\calismalar\bin\Debug\calismalar.exe
+F:\ODEV\calismalar\calismalar\bin\Debug\calismalar.pdb
+F:\ODEV\calismalar\calismalar\obj\Debug\calismalar.exe
+F:\ODEV\calismalar\calismalar\obj\Debug\calismalar.pdb
