@@ -1,0 +1,9 @@
+F:\ODEV\random\random\bin\Debug\random.exe.config
+F:\ODEV\random\random\bin\Debug\random.exe
+F:\ODEV\random\random\bin\Debug\random.pdb
+F:\ODEV\random\random\obj\Debug\random.csprojResolveAssemblyReference.cache
+F:\ODEV\random\random\obj\Debug\random.Form1.resources
+F:\ODEV\random\random\obj\Debug\random.Properties.Resources.resources
+F:\ODEV\random\random\obj\Debug\random.csproj.GenerateResource.Cache
+F:\ODEV\random\random\obj\Debug\random.exe
+F:\ODEV\random\random\obj\Debug\random.pdb

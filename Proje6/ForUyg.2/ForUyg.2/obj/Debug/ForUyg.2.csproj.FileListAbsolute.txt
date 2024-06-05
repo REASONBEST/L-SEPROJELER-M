@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Proje6\ForUyg.2\ForUyg.2\bin\Debug\ForUyg.2.exe.config
+C:\Users\PC\Desktop\Proje6\ForUyg.2\ForUyg.2\obj\Debug\ForUyg.2.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Proje6\ForUyg.2\ForUyg.2\obj\Debug\ForUyg._2.Form1.resources
+C:\Users\PC\Desktop\Proje6\ForUyg.2\ForUyg.2\obj\Debug\ForUyg._2.Properties.Resources.resources
+C:\Users\PC\Desktop\Proje6\ForUyg.2\ForUyg.2\obj\Debug\ForUyg.2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Proje6\ForUyg.2\ForUyg.2\bin\Debug\ForUyg.2.exe
+C:\Users\PC\Desktop\Proje6\ForUyg.2\ForUyg.2\bin\Debug\ForUyg.2.pdb
+C:\Users\PC\Desktop\Proje6\ForUyg.2\ForUyg.2\obj\Debug\ForUyg.2.exe
+C:\Users\PC\Desktop\Proje6\ForUyg.2\ForUyg.2\obj\Debug\ForUyg.2.pdb
