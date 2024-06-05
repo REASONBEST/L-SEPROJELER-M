@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\intelfaceÖrneği\intelfaceÖrneği\bin\Debug\intelfaceÖrneği.exe.config
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\intelfaceÖrneği\intelfaceÖrneği\bin\Debug\intelfaceÖrneği.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\intelfaceÖrneği\intelfaceÖrneği\bin\Debug\intelfaceÖrneği.pdb
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\intelfaceÖrneği\intelfaceÖrneği\obj\Debug\intelfaceÖrneği.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\intelfaceÖrneği\intelfaceÖrneği\obj\Debug\intelfaceÖrneği.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\intelfaceÖrneği\intelfaceÖrneği\obj\Debug\intelfaceÖrneği.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\intelfaceÖrneği\intelfaceÖrneği\obj\Debug\intelfaceÖrneği.pdb

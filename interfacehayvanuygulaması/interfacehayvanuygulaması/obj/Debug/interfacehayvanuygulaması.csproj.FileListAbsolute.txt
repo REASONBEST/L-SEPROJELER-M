@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\interfacehayvanuygulaması\interfacehayvanuygulaması\bin\Debug\interfacehayvanuygulaması.exe.config
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\interfacehayvanuygulaması\interfacehayvanuygulaması\bin\Debug\interfacehayvanuygulaması.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\interfacehayvanuygulaması\interfacehayvanuygulaması\bin\Debug\interfacehayvanuygulaması.pdb
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\interfacehayvanuygulaması\interfacehayvanuygulaması\obj\Debug\interfacehayvanuygulaması.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\interfacehayvanuygulaması\interfacehayvanuygulaması\obj\Debug\interfacehayvanuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\interfacehayvanuygulaması\interfacehayvanuygulaması\obj\Debug\interfacehayvanuygulaması.exe
+C:\Users\user\OneDrive\Masaüstü\Okul Projeler\interfacehayvanuygulaması\interfacehayvanuygulaması\obj\Debug\interfacehayvanuygulaması.pdb

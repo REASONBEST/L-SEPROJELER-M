@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\Yeni klasör\InterFaceLoglamaOrneği\InterFaceLoglamaOrneği\bin\Debug\InterFaceLoglamaOrneği.exe.config
+C:\Users\PC\Desktop\Yeni klasör\InterFaceLoglamaOrneği\InterFaceLoglamaOrneği\bin\Debug\InterFaceLoglamaOrneği.exe
+C:\Users\PC\Desktop\Yeni klasör\InterFaceLoglamaOrneği\InterFaceLoglamaOrneği\bin\Debug\InterFaceLoglamaOrneği.pdb
+C:\Users\PC\Desktop\Yeni klasör\InterFaceLoglamaOrneği\InterFaceLoglamaOrneği\obj\Debug\InterFaceLoglamaOrneği.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör\InterFaceLoglamaOrneği\InterFaceLoglamaOrneği\obj\Debug\InterFaceLoglamaOrneği.exe
+C:\Users\PC\Desktop\Yeni klasör\InterFaceLoglamaOrneği\InterFaceLoglamaOrneği\obj\Debug\InterFaceLoglamaOrneği.pdb
