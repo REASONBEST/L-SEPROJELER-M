@@ -1,0 +1,9 @@
+F:\ODEV\diziler\diziler\bin\Debug\diziler.exe.config
+F:\ODEV\diziler\diziler\bin\Debug\diziler.exe
+F:\ODEV\diziler\diziler\bin\Debug\diziler.pdb
+F:\ODEV\diziler\diziler\obj\Debug\diziler.csprojResolveAssemblyReference.cache
+F:\ODEV\diziler\diziler\obj\Debug\diziler.Form1.resources
+F:\ODEV\diziler\diziler\obj\Debug\diziler.Properties.Resources.resources
+F:\ODEV\diziler\diziler\obj\Debug\diziler.csproj.GenerateResource.Cache
+F:\ODEV\diziler\diziler\obj\Debug\diziler.exe
+F:\ODEV\diziler\diziler\obj\Debug\diziler.pdb
