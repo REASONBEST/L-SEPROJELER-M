@@ -1,0 +1,9 @@
+F:\ODEV\foruyg\foruyg\bin\Debug\foruyg.exe.config
+F:\ODEV\foruyg\foruyg\obj\Debug\foruyg.csprojResolveAssemblyReference.cache
+F:\ODEV\foruyg\foruyg\obj\Debug\foruyg.Form1.resources
+F:\ODEV\foruyg\foruyg\obj\Debug\foruyg.Properties.Resources.resources
+F:\ODEV\foruyg\foruyg\obj\Debug\foruyg.csproj.GenerateResource.Cache
+F:\ODEV\foruyg\foruyg\bin\Debug\foruyg.exe
+F:\ODEV\foruyg\foruyg\bin\Debug\foruyg.pdb
+F:\ODEV\foruyg\foruyg\obj\Debug\foruyg.exe
+F:\ODEV\foruyg\foruyg\obj\Debug\foruyg.pdb

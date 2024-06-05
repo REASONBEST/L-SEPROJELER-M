@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\aÇı\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+C:\Users\PC\Desktop\aÇı\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\aÇı\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.Form1.resources
+C:\Users\PC\Desktop\aÇı\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.Properties.Resources.resources
+C:\Users\PC\Desktop\aÇı\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\aÇı\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe
+C:\Users\PC\Desktop\aÇı\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.pdb
+C:\Users\PC\Desktop\aÇı\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.exe
+C:\Users\PC\Desktop\aÇı\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.pdb
