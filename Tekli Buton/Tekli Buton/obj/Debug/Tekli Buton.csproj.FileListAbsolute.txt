@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\Kanser\Tekli Buton\Tekli Buton\bin\Debug\Tekli Buton.exe.config
+C:\Users\PC\Desktop\Kanser\Tekli Buton\Tekli Buton\obj\Debug\Tekli_Buton.Form1.resources
+C:\Users\PC\Desktop\Kanser\Tekli Buton\Tekli Buton\obj\Debug\Tekli_Buton.Properties.Resources.resources
+C:\Users\PC\Desktop\Kanser\Tekli Buton\Tekli Buton\obj\Debug\Tekli Buton.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Kanser\Tekli Buton\Tekli Buton\bin\Debug\Tekli Buton.exe
+C:\Users\PC\Desktop\Kanser\Tekli Buton\Tekli Buton\bin\Debug\Tekli Buton.pdb
+C:\Users\PC\Desktop\Kanser\Tekli Buton\Tekli Buton\obj\Debug\Tekli Buton.exe
+C:\Users\PC\Desktop\Kanser\Tekli Buton\Tekli Buton\obj\Debug\Tekli Buton.pdb

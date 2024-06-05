@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\obj\Debug\tekraruygulaması.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\obj\Debug\tekraruygulaması.Form1.resources
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\obj\Debug\tekraruygulaması.Properties.Resources.resources
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\obj\Debug\tekraruygulaması.csproj.GenerateResource.cache
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\obj\Debug\tekraruygulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\bin\Debug\tekraruygulaması.exe.config
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\bin\Debug\tekraruygulaması.exe
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\bin\Debug\tekraruygulaması.pdb
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\obj\Debug\tekraruygulaması.exe
+C:\Users\user\source\repos\tekraruygulaması\tekraruygulaması\obj\Debug\tekraruygulaması.pdb
