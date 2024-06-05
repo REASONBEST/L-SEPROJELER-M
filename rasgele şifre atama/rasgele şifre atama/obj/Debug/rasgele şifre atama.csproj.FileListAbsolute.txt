@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Proje 8\rasgele şifre atama\rasgele şifre atama\bin\Debug\rasgele şifre atama.exe.config
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\bin\Debug\rasgele şifre atama.exe.config
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\bin\Debug\rasgele şifre atama.exe
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\bin\Debug\rasgele şifre atama.pdb
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\obj\Debug\rasgele şifre atama.csproj.AssemblyReference.cache
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\obj\Debug\rasgele_şifre_atama.Form1.resources
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\obj\Debug\rasgele_şifre_atama.Properties.Resources.resources
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\obj\Debug\rasgele şifre atama.csproj.GenerateResource.cache
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\obj\Debug\rasgele şifre atama.csproj.CoreCompileInputs.cache
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\obj\Debug\rasgele şifre atama.exe
+D:\Proje 8\rasgele şifre atama\rasgele şifre atama\obj\Debug\rasgele şifre atama.pdb
