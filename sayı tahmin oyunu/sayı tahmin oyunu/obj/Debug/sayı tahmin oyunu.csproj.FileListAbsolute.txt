@@ -1,0 +1,19 @@
+C:\Users\PC\Desktop\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\sayı tahmin oyunu.exe.config
+C:\Users\PC\Desktop\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı_tahmin_oyunu.Form1.resources
+C:\Users\PC\Desktop\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı_tahmin_oyunu.Properties.Resources.resources
+C:\Users\PC\Desktop\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\sayı tahmin oyunu.exe
+C:\Users\PC\Desktop\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\sayı tahmin oyunu.pdb
+C:\Users\PC\Desktop\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.exe
+C:\Users\PC\Desktop\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.pdb
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\sayı tahmin oyunu.exe.config
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\sayı tahmin oyunu.exe
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\bin\Debug\sayı tahmin oyunu.pdb
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.csproj.AssemblyReference.cache
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı_tahmin_oyunu.Form1.resources
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı_tahmin_oyunu.Properties.Resources.resources
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.csproj.GenerateResource.cache
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.csproj.CoreCompileInputs.cache
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.exe
+D:\Proje 8\sayı tahmin oyunu\sayı tahmin oyunu\obj\Debug\sayı tahmin oyunu.pdb

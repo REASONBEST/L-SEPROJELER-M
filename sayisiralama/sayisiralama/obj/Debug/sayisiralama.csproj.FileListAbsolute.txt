@@ -1,0 +1,6 @@
+F:\ODEV\sayisiralama\sayisiralama\bin\Debug\sayisiralama.exe.config
+F:\ODEV\sayisiralama\sayisiralama\obj\Debug\sayisiralama.csprojResolveAssemblyReference.cache
+F:\ODEV\sayisiralama\sayisiralama\obj\Debug\sayisiralama.Form1.resources
+F:\ODEV\sayisiralama\sayisiralama\obj\Debug\sayisiralama.Form2.resources
+F:\ODEV\sayisiralama\sayisiralama\obj\Debug\sayisiralama.Properties.Resources.resources
+F:\ODEV\sayisiralama\sayisiralama\obj\Debug\sayisiralama.csproj.GenerateResource.Cache

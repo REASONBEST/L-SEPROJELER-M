@@ -1,0 +1,9 @@
+F:\ODEV\Sayidizisi\Sayidizisi\bin\Debug\Sayidizisi.exe.config
+F:\ODEV\Sayidizisi\Sayidizisi\bin\Debug\Sayidizisi.exe
+F:\ODEV\Sayidizisi\Sayidizisi\bin\Debug\Sayidizisi.pdb
+F:\ODEV\Sayidizisi\Sayidizisi\obj\Debug\Sayidizisi.csprojResolveAssemblyReference.cache
+F:\ODEV\Sayidizisi\Sayidizisi\obj\Debug\Sayidizisi.Form1.resources
+F:\ODEV\Sayidizisi\Sayidizisi\obj\Debug\Sayidizisi.Properties.Resources.resources
+F:\ODEV\Sayidizisi\Sayidizisi\obj\Debug\Sayidizisi.csproj.GenerateResource.Cache
+F:\ODEV\Sayidizisi\Sayidizisi\obj\Debug\Sayidizisi.exe
+F:\ODEV\Sayidizisi\Sayidizisi\obj\Debug\Sayidizisi.pdb
