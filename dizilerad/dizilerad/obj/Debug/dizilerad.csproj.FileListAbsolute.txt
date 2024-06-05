@@ -1,0 +1,9 @@
+F:\ODEV\dizilerad\dizilerad\bin\Debug\dizilerad.exe.config
+F:\ODEV\dizilerad\dizilerad\bin\Debug\dizilerad.exe
+F:\ODEV\dizilerad\dizilerad\bin\Debug\dizilerad.pdb
+F:\ODEV\dizilerad\dizilerad\obj\Debug\dizilerad.csprojResolveAssemblyReference.cache
+F:\ODEV\dizilerad\dizilerad\obj\Debug\dizilerad.Form1.resources
+F:\ODEV\dizilerad\dizilerad\obj\Debug\dizilerad.Properties.Resources.resources
+F:\ODEV\dizilerad\dizilerad\obj\Debug\dizilerad.csproj.GenerateResource.Cache
+F:\ODEV\dizilerad\dizilerad\obj\Debug\dizilerad.exe
+F:\ODEV\dizilerad\dizilerad\obj\Debug\dizilerad.pdb

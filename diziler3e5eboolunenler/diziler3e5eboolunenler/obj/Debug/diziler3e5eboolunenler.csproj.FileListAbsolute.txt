@@ -1,0 +1,9 @@
+F:\ODEV\diziler3e5eboolunenler\diziler3e5eboolunenler\bin\Debug\diziler3e5eboolunenler.exe.config
+F:\ODEV\diziler3e5eboolunenler\diziler3e5eboolunenler\bin\Debug\diziler3e5eboolunenler.exe
+F:\ODEV\diziler3e5eboolunenler\diziler3e5eboolunenler\bin\Debug\diziler3e5eboolunenler.pdb
+F:\ODEV\diziler3e5eboolunenler\diziler3e5eboolunenler\obj\Debug\diziler3e5eboolunenler.csprojResolveAssemblyReference.cache
+F:\ODEV\diziler3e5eboolunenler\diziler3e5eboolunenler\obj\Debug\diziler3e5eboolunenler.Form1.resources
+F:\ODEV\diziler3e5eboolunenler\diziler3e5eboolunenler\obj\Debug\diziler3e5eboolunenler.Properties.Resources.resources
+F:\ODEV\diziler3e5eboolunenler\diziler3e5eboolunenler\obj\Debug\diziler3e5eboolunenler.csproj.GenerateResource.Cache
+F:\ODEV\diziler3e5eboolunenler\diziler3e5eboolunenler\obj\Debug\diziler3e5eboolunenler.exe
+F:\ODEV\diziler3e5eboolunenler\diziler3e5eboolunenler\obj\Debug\diziler3e5eboolunenler.pdb
