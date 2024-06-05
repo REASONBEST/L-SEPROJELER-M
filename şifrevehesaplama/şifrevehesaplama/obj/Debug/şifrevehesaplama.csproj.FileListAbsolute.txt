@@ -1,0 +1,9 @@
+F:\ODEV\şifrevehesaplama\şifrevehesaplama\bin\Debug\şifrevehesaplama.exe.config
+F:\ODEV\şifrevehesaplama\şifrevehesaplama\bin\Debug\şifrevehesaplama.exe
+F:\ODEV\şifrevehesaplama\şifrevehesaplama\bin\Debug\şifrevehesaplama.pdb
+F:\ODEV\şifrevehesaplama\şifrevehesaplama\obj\Debug\şifrevehesaplama.csprojResolveAssemblyReference.cache
+F:\ODEV\şifrevehesaplama\şifrevehesaplama\obj\Debug\şifrevehesaplama.Form1.resources
+F:\ODEV\şifrevehesaplama\şifrevehesaplama\obj\Debug\şifrevehesaplama.Properties.Resources.resources
+F:\ODEV\şifrevehesaplama\şifrevehesaplama\obj\Debug\şifrevehesaplama.csproj.GenerateResource.Cache
+F:\ODEV\şifrevehesaplama\şifrevehesaplama\obj\Debug\şifrevehesaplama.exe
+F:\ODEV\şifrevehesaplama\şifrevehesaplama\obj\Debug\şifrevehesaplama.pdb

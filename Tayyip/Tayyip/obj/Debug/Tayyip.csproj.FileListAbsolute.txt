@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Boşluğa Düşeni S\Tayyip\Tayyip\bin\Debug\Tayyip.exe.config
+C:\Users\PC\Desktop\Boşluğa Düşeni S\Tayyip\Tayyip\bin\Debug\Tayyip.exe
+C:\Users\PC\Desktop\Boşluğa Düşeni S\Tayyip\Tayyip\bin\Debug\Tayyip.pdb
+C:\Users\PC\Desktop\Boşluğa Düşeni S\Tayyip\Tayyip\obj\Debug\Tayyip.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Boşluğa Düşeni S\Tayyip\Tayyip\obj\Debug\Tayyip.Form1.resources
+C:\Users\PC\Desktop\Boşluğa Düşeni S\Tayyip\Tayyip\obj\Debug\Tayyip.Properties.Resources.resources
+C:\Users\PC\Desktop\Boşluğa Düşeni S\Tayyip\Tayyip\obj\Debug\Tayyip.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Boşluğa Düşeni S\Tayyip\Tayyip\obj\Debug\Tayyip.exe
+C:\Users\PC\Desktop\Boşluğa Düşeni S\Tayyip\Tayyip\obj\Debug\Tayyip.pdb
