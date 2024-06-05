@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Boşluk\SıraSizde\SıraSizde\bin\Debug\SıraSizde.exe.config
+C:\Users\PC\Desktop\Boşluk\SıraSizde\SıraSizde\obj\Debug\SıraSizde.Form1.resources
+C:\Users\PC\Desktop\Boşluk\SıraSizde\SıraSizde\obj\Debug\SıraSizde.Properties.Resources.resources
+C:\Users\PC\Desktop\Boşluk\SıraSizde\SıraSizde\obj\Debug\SıraSizde.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Boşluk\SıraSizde\SıraSizde\obj\Debug\SıraSizde.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Boşluk\SıraSizde\SıraSizde\bin\Debug\SıraSizde.exe
+C:\Users\PC\Desktop\Boşluk\SıraSizde\SıraSizde\bin\Debug\SıraSizde.pdb
+C:\Users\PC\Desktop\Boşluk\SıraSizde\SıraSizde\obj\Debug\SıraSizde.exe
+C:\Users\PC\Desktop\Boşluk\SıraSizde\SıraSizde\obj\Debug\SıraSizde.pdb

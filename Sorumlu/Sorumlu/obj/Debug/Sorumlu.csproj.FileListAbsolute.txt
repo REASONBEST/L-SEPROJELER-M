@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\porto rico\Sorumlu\Sorumlu\bin\Debug\Sorumlu.exe.config
+C:\Users\PC\Desktop\porto rico\Sorumlu\Sorumlu\obj\Debug\Sorumlu.Form1.resources
+C:\Users\PC\Desktop\porto rico\Sorumlu\Sorumlu\obj\Debug\Sorumlu.Properties.Resources.resources
+C:\Users\PC\Desktop\porto rico\Sorumlu\Sorumlu\obj\Debug\Sorumlu.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\porto rico\Sorumlu\Sorumlu\bin\Debug\Sorumlu.exe
+C:\Users\PC\Desktop\porto rico\Sorumlu\Sorumlu\bin\Debug\Sorumlu.pdb
+C:\Users\PC\Desktop\porto rico\Sorumlu\Sorumlu\obj\Debug\Sorumlu.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\porto rico\Sorumlu\Sorumlu\obj\Debug\Sorumlu.exe
+C:\Users\PC\Desktop\porto rico\Sorumlu\Sorumlu\obj\Debug\Sorumlu.pdb

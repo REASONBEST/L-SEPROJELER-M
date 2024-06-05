@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\aÇı\Swith Hesap\Swith Hesap\bin\Debug\Swith Hesap.exe.config
+C:\Users\PC\Desktop\aÇı\Swith Hesap\Swith Hesap\bin\Debug\Swith Hesap.exe
+C:\Users\PC\Desktop\aÇı\Swith Hesap\Swith Hesap\bin\Debug\Swith Hesap.pdb
+C:\Users\PC\Desktop\aÇı\Swith Hesap\Swith Hesap\obj\Debug\Swith_Hesap.Form1.resources
+C:\Users\PC\Desktop\aÇı\Swith Hesap\Swith Hesap\obj\Debug\Swith_Hesap.Properties.Resources.resources
+C:\Users\PC\Desktop\aÇı\Swith Hesap\Swith Hesap\obj\Debug\Swith Hesap.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\aÇı\Swith Hesap\Swith Hesap\obj\Debug\Swith Hesap.exe
+C:\Users\PC\Desktop\aÇı\Swith Hesap\Swith Hesap\obj\Debug\Swith Hesap.pdb
+C:\Users\PC\Desktop\aÇı\Swith Hesap\Swith Hesap\obj\Debug\Swith Hesap.csprojResolveAssemblyReference.cache
+F:\Proje3\Swith Hesap\Swith Hesap\bin\Debug\Swith Hesap.exe.config
+F:\Proje3\Swith Hesap\Swith Hesap\obj\Debug\Swith Hesap.exe
+F:\Proje3\Swith Hesap\Swith Hesap\obj\Debug\Swith Hesap.pdb
